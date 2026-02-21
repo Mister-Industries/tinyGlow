@@ -1,4 +1,4 @@
-# tinyGlow — Perma-protoboard HAT for tinyCore ESP32-S3
+# tinyGlow — Smart LED HAT for tinyCore ESP32-S3
 
 <div align="center">
 
@@ -8,7 +8,7 @@
 
 ![tinyGlow Projects](Assets/tinyGlow-store-2.jpg)
 
-**A perma-protoboard (soldered breadboard) for the [tinyCore](https://github.com/Mister-Industries/tinyCore) ESP32-S3 platform.**
+**A smart LED control HAT for the [tinyCore](https://github.com/Mister-Industries/tinyCore) ESP32-S3 platform.**
 
 [Purchase](https://tinycore.cc/store/products/tinyGlow) · [Discord](https://discord.gg/hvJZhwfQsF) · [Documentation](https://docs.mr.industries)
 

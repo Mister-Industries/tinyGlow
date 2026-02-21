@@ -6,7 +6,7 @@
 [![Open Source Hardware](https://img.shields.io/badge/Hardware-Open%20Source-brightgreen)](https://www.oshwa.org/)
 [![Platform: ESP32-S3](https://img.shields.io/badge/Platform-ESP32--S3-red)](https://www.espressif.com/en/products/socs/esp32-s3)
 
-![tinyGlow Projects](Assets/tinyGlow-store-4.jpg)
+![tinyGlow Projects](Assets/tinyGlow-store-2.jpg)
 
 **A perma-protoboard (soldered breadboard) for the [tinyCore](https://github.com/Mister-Industries/tinyCore) ESP32-S3 platform.**
 
